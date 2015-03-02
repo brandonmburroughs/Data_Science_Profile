@@ -19,7 +19,7 @@ date = (time.strftime("%Y-%m-%d"))
 
 # Your info goes here.
 name = 'Brandon' # Put your name here.
-bar_data_labels = ['Mathematics', 'Statistics', 'Computer Science', 'Machine Learning', 'Communication', 'Visualization', 'Domain'] # These are the Data Science areas suggested in Doing Data Science.
+bar_data_labels = ['Mathematics', 'Statistics', 'Computer Science', 'Machine Learning', 'Communication', 'Visualization', 'Domain Expertise'] # These are the Data Science areas suggested in Doing Data Science.
 bar_data = [75, 80, 50, 60, 80, 40, 30] # Rate each skill from 0 to 100. 
 bar_data = pd.DataFrame(bar_data) # Put your data into a dataframe
 
